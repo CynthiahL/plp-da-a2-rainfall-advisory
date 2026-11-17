@@ -6,7 +6,7 @@ This project cleans, analyzes, and summarizes monthly rainfall data across five 
 
 ### How to Run
 1. Clone this repository or open `rainfall_analysis.ipynb` directly in Google Colab:
-   [![Open In Colab](https://google.com)](https://google.com<YOUR_USERNAME>/plp-da-a2-rainfall-advisory/blob/main/rainfall_analysis.ipynb)
+   [Open in Colab](https://colab.research.google.com/github/CynthiahL/plp-da-a2-rainfall-advisory/blob/main/rainfall_analysis.ipynb)
 2. Install the required dependency (`numpy`) using:
    ```bash
    pip install -r requirements.txt
